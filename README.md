@@ -66,4 +66,5 @@ Frete ──┬── 1 Transportador
 
 ## Autor
 
-Nome: _preencha_ · RA: _preencha_ · Curso: _preencha_ · Polo: _preencha_
+Nome: David Leite de Moura · Curso: Análise e desenvolvimento de sistemas 
+
