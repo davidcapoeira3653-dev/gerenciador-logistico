@@ -1,0 +1,4 @@
+# Dados cadastrados localmente (cada pessoa gera os seus)
+data/*.json
+.DS_Store
+Thumbs.db
